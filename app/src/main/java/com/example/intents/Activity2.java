@@ -14,6 +14,7 @@ public class Activity2 extends AppCompatActivity {
 
         TextView textView = findViewById(R.id.salutacio);
 
+
         //String nom = getIntent().getStringExtra("etqNom");
 
         Bundle sacRecuperat = getIntent().getExtras();
